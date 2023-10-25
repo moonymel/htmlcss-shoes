@@ -20,6 +20,10 @@
     background-color: red;
 }
 
+.green {
+    background-color: green;
+}
+
 .text-yellow {
     color:yellow;
     width: 800px;
