@@ -24,8 +24,17 @@
     background-color: green;
 }
 
+.yellow {
+    background-color: yellow;
+}
+
 .text-yellow {
     color:yellow;
+    width: 800px;
+}
+
+.text-green {
+    color:green;
     width: 800px;
 }
 
