@@ -60,18 +60,23 @@ a {
 
 .text-yellow {
     color:yellow;
-    width: 800px;
+    width: 100%;
 }
 
 .text-green {
     color:green;
-    width: 800px;
+    width: 100%;
 }
 
 .shoe {
+    width:50%;
     margin:0 auto;
     position:absolute;
     top:50%;
     left:50%;
     transform:translate(-50%, -50%);
+}
+
+.shoe img {
+    width:100%
 }
